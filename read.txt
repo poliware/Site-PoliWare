@@ -1,0 +1,8 @@
+segunda versão do site.
+
+simples;
+amigavel.
+
+A.T.:
+Inserção do google analystics, para monitorar o uso do site;
+Inserção do google adsense, para gerar anuncio.		//funcionando
